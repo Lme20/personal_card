@@ -1,6 +1,7 @@
 # myapp1
 
-A new Flutter project.
+- Run *'flutter pub get'* to get all dependencies
+- Run *'flutter run'* to start the project
 
 ## Getting Started
 
